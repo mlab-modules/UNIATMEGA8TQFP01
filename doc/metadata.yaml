@@ -1,0 +1,13 @@
+description: 'ATMEGA/TL317/SMD proto-board. '
+github_branch: UNIATMEGA8TQFP01A
+github_description: 'ATMEGA/TL317/SMD proto-board. '
+github_repo: UNIATMEGA8TQFP01
+github_url: https://github.com/mlab-modules/UNIATMEGA8TQFP01
+homepage: false
+images:
+- doc/img/UNIATMEGA8TQFP01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: UNIATMEGA8TQFP01
+updated: '2023-09-17T11:43:18.773931+00:00'
